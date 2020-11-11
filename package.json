@@ -1,5 +1,5 @@
 {
-  "name": "one-admin",
+  "name": "",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,7 +10,14 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "element-ui": "^2.14.1",
+    "nprogress": "^0.2.0",
+    "sass": "^1.29.0",
+    "sass-loader": "^10.0.5",
+    "vue": "^2.6.11",
+    "vue-lazyload": "^1.3.3",
+    "vue-router": "^3.4.9",
+    "vuex": "^3.5.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
